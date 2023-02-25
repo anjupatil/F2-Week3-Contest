@@ -1,0 +1,13 @@
+input {
+    width: 100%;
+  }
+.saveButton {
+    background-color: black;
+    color: white;
+  }  
+
+  #addRow{
+    background-color: black;
+    color: white;
+
+  }
